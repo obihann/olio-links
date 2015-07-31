@@ -1,7 +1,7 @@
 {
-  "name": "aglio-theme-olio-links",
+  "name": "olio-links",
   "version": "0.0.1",
-  "description": "Default theme for the Aglio API Blueprint renderer with support for LINK and UNLINK",
+  "description": "Fork of default theme for the Aglio API Blueprint renderer with support for LINK and UNLINK",
   "main": "lib/main.js",
   "scripts": {
     "build": "coffeelint src/*.coffee && coffee -o lib -c src",
@@ -32,7 +32,7 @@
   "bugs": {
     "url": "https://github.com/obihann/aglio/issues"
   },
-  "homepage": "https://github.com/obihann/aglio/tree/olio-theme",
+  "homepage": "https://github.com/obihann/aglio",
   "dependencies": {
     "coffee-script": "^1.8.0",
     "highlight.js": "^8.4.0",
