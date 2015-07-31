@@ -1,6 +1,6 @@
 {
   "name": "aglio-theme-olio-links",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Fork of default theme for the Aglio API Blueprint renderer with support for LINK and UNLINK",
   "main": "lib/main.js",
   "scripts": {
