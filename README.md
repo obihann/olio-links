@@ -1,8 +1,8 @@
 # Olio Links 
 
-[![Dependency Status](https://david-dm.org/obihann/aglio.svg)](https://david-dm.org/obihann/aglio)
-[![Build Status](http://img.shields.io/travis/obihann/aglio.svg)](https://travis-ci.org/obihann/aglio) 
-[![Coverage Status](https://coveralls.io/repos/obihann/aglio/badge.svg?branch=master&service=github)](https://coveralls.io/github/obihann/aglio?branch=master)
+[![Dependency Status](https://david-dm.org/obihann/olio-links.svg)](https://david-dm.org/obihann/olio-links)
+[![Build Status](http://img.shields.io/travis/obihann/olio-links.svg)](https://travis-ci.org/obihann/olio-links) 
+[![Coverage Status](https://coveralls.io/repos/obihann/olio-links/badge.svg?branch=master&service=github)](https://coveralls.io/github/obihann/olio-links?branch=master)
 [![NPM version](http://img.shields.io/npm/v/aglio-theme-olio-links.svg)](https://www.npmjs.org/package/aglio-theme-olio-links) 
 [![License](http://img.shields.io/npm/l/aglio-theme-olio-links.svg)](https://www.npmjs.org/package/aglio-theme-olio-links)
 
