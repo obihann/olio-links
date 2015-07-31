@@ -14,6 +14,10 @@ mixin Badge(method)
             span.badge.put: i.fa.fa-pencil
         when 'PATCH'
             span.badge.patch: i.fa.fa-pencil
+        when 'LINK'
+            span.badge.patch: i.fa.fa-pencil
+        when 'UNLINK'
+            span.badge.patch: i.fa.fa-pencil
         when 'DELETE'
             span.badge.delete: i.fa.fa-times
         default
