@@ -277,13 +277,13 @@ nav {
     }
 
     &.unlink {
-      color: @patch-badge-text-color;
-      background-color: @patch-background-color;
+      color: @unlink-badge-text-color;
+      background-color: @unlink-background-color;
     }
 
     &.link {
-      color: @patch-badge-text-color;
-      background-color: @patch-background-color;
+      color: @link-badge-text-color;
+      background-color: @link-background-color;
     }
 
     &.patch {
@@ -519,6 +519,16 @@ nav .resource-group{
                 background-color: @put-color;
             }
 
+            &.unlink {
+                color: contrast(@unlink-color);
+                background-color: @unlink-color;
+            }
+
+            &.link {
+                color: contrast(@link-color);
+                background-color: @link-color;
+            }
+
             &.patch {
                 color: contrast(@patch-color);
                 background-color: @patch-color;
@@ -600,6 +610,26 @@ nav .resource-group{
             color: @put-color;
             background: @put-background-color;
             border-bottom-color: @put-border-color;
+        }
+    }
+
+    &.unlink {
+        border-color: @unlink-border-color;
+
+        h4 {
+            color: @unlink-color;
+            background: @unlink-background-color;
+            border-bottom-color: @unlink-border-color;
+        }
+    }
+
+    &.link {
+        border-color: @link-border-color;
+
+        h4 {
+            color: @link-color;
+            background: @link-background-color;
+            border-bottom-color: @link-border-color;
         }
     }
 
