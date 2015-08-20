@@ -1,6 +1,6 @@
 # Change Log
 
-## [v0.0.5](https://github.com/obihann/olio-links/tree/v0.0.5) (2015-07-31)
+## [v0.0.5](https://github.com/obihann/olio-links/tree/v0.0.5) (2015-08-20)
 [Full Changelog](https://github.com/obihann/olio-links/compare/v0.0.4...v0.0.5)
 
 ## [v0.0.4](https://github.com/obihann/olio-links/tree/v0.0.4) (2015-07-31)
